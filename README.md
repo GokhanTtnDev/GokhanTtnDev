@@ -1,20 +1,20 @@
 <h1 align="center">Hi there, I'm Gökhan Tütün 👋</h1>
 
-<h3 align="center">🚀 Full-Stack Software Developer | Solo Founder | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Software Developer | UI/UX Designer | Freelancer</h3>
 
 <p align="center">
-  I am a passionate software developer and entrepreneur focused on building premium, scalable digital experiences. With a strong background in cross-platform development and a keen eye for high-end UI/UX designs (like Glassmorphism and Modern Minimalist styles), I transform complex ideas into robust software solutions. Currently, I am also bridging the gap between technology and Human Resources Management through innovative SaaS products.
+  I am a passionate software developer dedicated to building premium digital experiences. I specialize in high-end UI/UX designs (Glassmorphism, Modern Minimalist) and robust backend architectures. With expertise in cross-platform mobile development and scalable web solutions, I transform complex ideas into high-performance applications.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **NexusUI** (bringing web-like development to Unity UI Toolkit) and expanding SaaS platforms like **Formuloto**.
-- 🌱 I’m constantly exploring advanced backend architectures with **Java 25** and **Laravel**, while pushing the limits of mobile animations with **Flutter**.
-- 💡 I specialize in creating SEO/ASO optimized applications that are built to scale and perform.
-- 🤝 I’m available for freelance projects—whether it's a complex Full-Stack Mobile App or a custom Web Solution.
-- 📫 How to reach me: **[gokhanttndev@gmail.com](mailto:gokhanttndev@gmail.com)**
+- 🔭 I specialize in building **cross-platform mobile apps** with Flutter and **scalable backends** using Java 25 & Laravel.
+- 🌱 Currently deep-diving into advanced **UI Toolkit** integration and high-performance **Java architectures**.
+- 💡 Focused on creating **SEO/ASO optimized** products with clean, maintainable code.
+- 🎓 Studying **Human Resources Management**, bridging the gap between tech and people operations.
+- 🤝 Open for freelance projects: **[Hire me on Fiverr](https://www.fiverr.com/gokhanttndev)**
 
 ---
 
@@ -40,11 +40,12 @@
 
 ---
 
+### 📁 Top Repositories
 
 **Best Flutter UI Templates**  
 [![Best Flutter UI Templates](https://github.com/user-attachments/assets/cf9d7e3b-5e58-4a0a-bd1f-cef07d877886)](https://github.com/GokhanTtnDev/Best-Flutter-UI-Templates)
 
-**Yemeksepeti Clone (Flutter)**  
+**Yemeksepeti Clone (Flutter & UI Focus)**  
 <a href="https://github.com/GokhanTtnDev/Yemeksepeti-Clone-Mobile-Flutter">
   <img width="100%" alt="Yemeksepeti Clone" src="https://github.com/user-attachments/assets/828fe15a-b3d8-414b-b3a5-5d0f5735a911" />
 </a>
@@ -54,8 +55,7 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokhanTtnDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Gokhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokhanTtnDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/GokhanTtnDev?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" alt="GitHub Metrics" />
 </div>
 <br>
 <div align="center">
@@ -64,10 +64,11 @@
 
 ---
 
-### 💼 Let's Work Together!
+### 💼 Get In Touch
 
-Need a high-performance web or mobile application? I specialize in delivering clean, scalable, and premium solutions tailored to your business needs.
+Need a high-performance web or mobile application? I deliver clean, scalable, and premium solutions.
 
-👉 **[Hire me on Fiverr](https://www.fiverr.com/gokhanttndev)**
+📧 **Email:** [gokhanttndev@gmail.com](mailto:gokhanttndev@gmail.com)  
+👉 **[Fiverr Profile](https://www.fiverr.com/gokhanttndev)**
 
 </div>
