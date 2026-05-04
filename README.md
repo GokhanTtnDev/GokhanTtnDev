@@ -55,11 +55,11 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/GokhanTtnDev?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" alt="GitHub Metrics" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokhanTtnDev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- GitHub Readme Stats - Alternative URL & Theme -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GokhanTtnDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Gokhan's Stats" />
+  <br><br>
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokhanTtnDev&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
