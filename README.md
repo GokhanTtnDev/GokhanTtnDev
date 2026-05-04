@@ -13,7 +13,6 @@
 - 🔭 I specialize in building **cross-platform mobile apps** with Flutter and **scalable backends** using Java 25 & Laravel.
 - 🌱 Currently deep-diving into advanced **UI Toolkit** integration and high-performance **Java architectures**.
 - 💡 Focused on creating **SEO/ASO optimized** products with clean, maintainable code.
-- 🎓 Studying **Human Resources Management**, bridging the gap between tech and people operations.
 - 🤝 Open for freelance projects: **[Hire me on Fiverr](https://www.fiverr.com/gokhanttndev)**
 
 ---
